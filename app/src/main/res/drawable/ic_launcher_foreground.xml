@@ -8,9 +8,14 @@
       android:scaleY="0.8"
       android:translateX="10.8"
       android:translateY="10.8">
-      <path
-          android:strokeColor="#FFFFFF"
-          android:strokeWidth="8"
-          android:pathData="M54,24L54,84M24,54L84,54Z"/>
+    <group android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="8"
+            android:pathData="M54,24L54,84M24,54L84,54Z"/>
+    </group>
   </group>
 </vector>
